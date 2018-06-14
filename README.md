@@ -13,10 +13,6 @@ Court Counter App is an Android based application to track scores for two teams 
 ## Getting Started
 To build this project, use "Import Project" in Android Studio.
 
-## Technology Uses 
-* Core Java
-* XML for UI Design
-
 ## Versions
 * For the version 1.0, see the [CourtCounterApp](https://github.com/akdalton/CourtCounterApp).
 * For the version 2.0, see the [ScoreKeeperApp](https://github.com/akdalton/ScoreKeeperApp).
@@ -24,5 +20,3 @@ To build this project, use "Import Project" in Android Studio.
 ## Author
 * **Ashish Kumar** - *Initial work* - [akdalton](https://github.com/akdalton).
 
-## License
-This project is licensed under the Udacity License.
