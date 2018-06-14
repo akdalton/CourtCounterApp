@@ -6,9 +6,7 @@ Court Counter App is an Android based application to track scores for two teams 
 * Java SDK 9.0.1
 
 ## Pre-requisites
-* Android SDK v27
-* Android Build Tools v27.1.1
-* Android Support Repository v27.1.1
+* Android SDK v26
 
 ## Getting Started
 To build this project, use "Import Project" in Android Studio.
