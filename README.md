@@ -1,5 +1,6 @@
-# CourtCounterApp
-Court Counter App is an Android based application to track scores for two teams playing a basketball game.
+# Court Counter App
+* Android based application.
+* Developed to track scores for two teams playing a basketball game.
 
 ## Tools Required
 * Android Studio 3.1.3
